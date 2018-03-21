@@ -1,0 +1,11 @@
+ip,app,device,os,channel,click_time
+Which of the following are components in building a machine learning algorithm?,Artificial intelligence,Machine learning,Training and test sets,Creating features.,Creating features
+What are typical sizes for the training and test sets?,"90% training set, 10% test set","0% training set, 100% test set.","80% training set, 20% test set","50% training set, 50% test set","80% training set, 20% test set"
+Which of the following is used for predicting continued valued output?,Artificial intelligence,Machine learning, Training and test sets,  Creating features.,Regression
+Which of the following can be used for predicting discrete valued output?,Artificial intelligence,Machine learning,Training and test sets,Creating features,Classification
+"In which learning, each of the record is associated with a label and the labels are used for learning and prediction?",Artificial intelligence,Machine learning,Training and test sets,Creating features.,Supervised
+Which of the following can be used to do house price prediction?,Artificial intelligence,Machine learning,Training and test sets,Creating features.,Regression
+What is the minimum number of features/variables required to perform clustering?,Artificial intelligence,Machine learning,Training and test sets,Creating features.,Zero
+"What will be the Manhattan distance for observation (9,9) from cluster centroid C1. in second iteration?",Artificial intelligence,Machine learning,Training and test sets,Creating features.,10
+Which of the following algorithm is most sensitive to outliers?,Artificial intelligence,Machine learning,Training and test sets,Creating features.,K-means clustering algorithm
+Feature scaling is an important step before applying K-Mean algorithm. What is reason behind this?,You always get the same clusters. If you use or don\u2019t use feature scaling,In Manhattan distance it is an important step but in Euclidian it is not,In distance calculation it will give the same weights for all features,None of these.,In distance calculation it will give the same weights for all features
